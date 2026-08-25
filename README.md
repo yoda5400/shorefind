@@ -1,1 +1,1 @@
-shorefind
+mix phx.server
